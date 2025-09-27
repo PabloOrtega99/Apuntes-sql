@@ -73,6 +73,6 @@ BEGIN
 END @
 DELIMITER ;
 ```
-# Transacciones (Mirar en YT para completar apuntes)
+# Transacciones ACID (Mirar en YT para completar apuntes)
 
 

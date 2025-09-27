@@ -72,5 +72,7 @@ BEGIN
    
 END @
 DELIMITER ;
+```
+# Transacciones (Mirar en YT para completar apuntes)
 
 
